@@ -1,5 +1,5 @@
 <template>
-  <div class="container d-flex justify-content-center align-items-center flex-column">
+  <div class="container d-flex  align-items-center flex-column">
     <div class="row">
       <div class="col">
         <div class="d-flex justify-content-center align-items-center">
@@ -128,7 +128,7 @@ export default {
   height: 100vh;
 }
 .imagen{
-  width: 80px;
+  width: 50px;
 }
 
 </style>
