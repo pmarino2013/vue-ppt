@@ -3,7 +3,6 @@ import Juego from "./components/Juego.vue";
 </script>
 
 <template>
- 
   <!-- <HelloWorld msg="Hello Vue 3 + Vite" /> -->
   <juego />
 </template>
@@ -15,8 +14,8 @@ import Juego from "./components/Juego.vue";
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 80px;
+  /* margin-top: 80px; */
+
   /* height: 100vh; */
-  
 }
 </style>
