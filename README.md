@@ -1,7 +1,16 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Juego de Piedra, Papel o Tijera
 
-## Recommended IDE Setup
+Aplicación que simula el famoso juego contra la computadora.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+### Instalación
+
+- Una vez clonado el proyecto acceder a la carpeta desde la terminal y ejecutar `npm install`
+- Después de la instalación de dependencias ejecutar `npm run dev` para comenzar a jugar
+
+### Developer
+
+`Pablo Marino`
+
+- Twitter: `@pablomarino8`
